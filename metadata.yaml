@@ -1,11 +1,16 @@
 _repo: Negro-Journalism-An-Essay-on-the-History-and-Present-Conditions-of-the-Negro-Press_64981
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64981-h/images/cover.jpg
 creator:
   author:
     agent_name: Gore, George W.
     gutenberg_agent_id: '53127'
     url: http://www.gutenberg.org/2009/agents/53127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64981#Negro-Journalism-An-Essay-on-the-History-and-Present-Conditions-of-the-Negro-Press
 gutenberg_issued: '2021-04-02'
 gutenberg_type: Text
 identifiers:
